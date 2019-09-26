@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.calc-area {
+  display: flexbox;
+}
+
+.calc-one {
+  float: left;
+}
+
+.calc-two {
+  display: inline-block;
+}
+
+.parent {
+  padding-top: 40px;
+}
